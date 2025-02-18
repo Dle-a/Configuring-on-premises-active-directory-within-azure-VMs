@@ -1,1 +1,1 @@
-# Configuring-on-premises-active-directory-within-azure-VMs
+# Configuring-active-directory-within-azure-VMs
