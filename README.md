@@ -2,7 +2,7 @@
 </p>
 
 <h1>Active directory configurations in (Azure)</h1>
-This tutorial outlines the implementation of Active Directory within Azure Virtual Machines.<br />
+This lab outlines the implementation of Active Directory within Azure Virtual Machines.<br />
 
 
 <h2>Environments and Technologies Used</h2>
