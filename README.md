@@ -17,25 +17,29 @@ This tutorial outlines the implementation of Active Directory within Azure Virtu
 - Windows Server 2022
 - Windows 10 (21H2)
 
-<h2>High-Level Deployment and Configuration Steps</h2>
+<h2>Configuration Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
 
-<h2>Deployment and Configuration Steps</h2>
+
+
 
 <p>
-<img width="246" alt="image" src="https://github.com/user-attachments/assets/0f71efbe-d37f-45d4-9551-2bb8a2e67bc9" />
+<img width="894" alt="image" src="https://github.com/user-attachments/assets/53b12f24-226f-41ba-90f3-7c91d86ca8eb" />
+
+  
+![Screenshot 2025-04-29 172522](https://github.com/user-attachments/assets/10e1b6f9-e30d-424e-a270-421b1d05c430)
+
+
 </p>
+![Screenshot 2025-04-29 172522](https://github.com/user-attachments/assets/7a5a341f-ea99-47ce-8023-9f6d0e7b8c0c)
+
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
 
 <p>
-<img width="467" alt="image" src="https://github.com/user-attachments/assets/399fe2da-1df7-401b-adff-beace6fbad95" />
+<img width="801" alt="image" src="https://github.com/user-attachments/assets/b3937b85-df32-4121-a6dd-f2439bff388b" />
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
